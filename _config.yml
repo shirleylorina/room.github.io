@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+title: nuova stanza
+email: improb@protonmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  映画のタイトル
+baseurl: "webapp" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: shirleylorina
+github_username:  shirleylorina
