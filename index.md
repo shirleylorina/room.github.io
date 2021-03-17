@@ -15,6 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 我看看会不会变
+why is it not taking characters?
 
 - Bulleted
 - List
